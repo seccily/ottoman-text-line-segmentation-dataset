@@ -61,14 +61,18 @@ Each image has a corresponding `.txt` file with the same name. Each line in the 
 </p>
 <p align="center"><em>Figure: Samples from the resulting dataset</em></p>
 
+<p align="center"><span style="font-size: 2em; padding: 0 10px;">—</span></p>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca7bbdd5-23a3-4018-bd19-4d31de958881" width="45%" alt="Border"/>
-  <img src="https://github.com/user-attachments/assets/a65b3c56-bbac-4240-b2cd-8cac8f4c834b" width="20%" alt="Page number"/>
+  <img src="https://github.com/user-attachments/assets/ca7bbdd5-23a3-4018-bd19-4d31de958881" width="30%" alt="Border"/>
+  <img src="https://github.com/user-attachments/assets/a65b3c56-bbac-4240-b2cd-8cac8f4c834b" width="15%" alt="Page number"/>
 </p>
 <p align="center"><em>Figure: Sample crops from the resulting dataset with false positive detections</em></p>
 
+<p align="center"><span style="font-size: 2em; padding: 0 10px;">—</span></p>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f63ad4a-bebd-4a74-958c-931a76662349" width="45%" alt="Multi-column formatting"/>
+  <img src="https://github.com/user-attachments/assets/2f63ad4a-bebd-4a74-958c-931a76662349" width="30%" alt="Multi-column formatting"/>
 </p>
 <p align="center"><em>Figure: A sample crop from the resulting dataset with multi-column formatting</em></p>
 
